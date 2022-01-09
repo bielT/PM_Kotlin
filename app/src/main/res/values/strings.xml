@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab01Kotlin</string>
+    <string name="Clear">Limpa</string>
+    <string name="scrolling">Rolar</string>
+</resources>
